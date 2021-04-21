@@ -1,0 +1,29 @@
+h1{
+    color: brown;
+}
+.header{
+    background-color: rgb(255, 0, 200);
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: space-around;
+   
+}
+
+.menu{
+    background-color: gray;
+    border: solid;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+
+
+
+
+
+
+
+
